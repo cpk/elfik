@@ -1,0 +1,29 @@
+@charset "utf-8";
+.r{ float:right;}
+.l{float:left;}
+body{ font-family:Tahoma, Geneva, sans-serif; font-size:14px;}
+#invoice{width:1000px;}
+.print{display: none;}
+a{color:#000;text-decoration:none;}
+h1{font-size:25px;padding-bottom:10px;border-bottom:1px solid #ccc;}
+.clear{clear:both;}
+ul{list-style:none;}
+em{font-style:normal;font-weight:bold;}
+h3{margin:0;background:#fff;display:inline;position:absolute;left:30px;top:-12px;padding:0 5px;font-size:13px;}
+.pbox{padding:10px;border:2px solid #555;position:relative;margin-bottom:20px;margin-top:5px;}
+.pbox li{margin:5px 0;}
+
+.pbox div{width:365px;}
+.pbox div.pr{ width:480px;}
+.rg{text-align:right;}
+.c{text-align:center;}
+table{width:1000px; border-collapse:collapse;font-size:12px;}
+#m th{background:#eee;padding:15px 5px;}
+#m tr{border-bottom:1px solid #eee;}
+#m td{padding:8px 5px;}
+.r{float:none; text-align:right;;}
+.sum{margin:20px 0px;padding:5px;border-top:3px solid #ddd;border-bottom:1px solid #ddd;font-size:16px;}
+.sum tr{border:0px;}
+.sum table{float:right;}
+.sum .w100,.sum .w200{text-align:right;}
+.sum .w100{width:150px;font-weight:bold;}

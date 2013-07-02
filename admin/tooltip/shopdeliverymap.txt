@@ -1,0 +1,8 @@
+﻿<div class="tooltip right">
+	<strong>HTML kód, resp. iframe</strong>
+	<p>
+		V prípadne osobného odberu je možné určit presnú polohu odberného miesta, prostredníctvom mapy.
+		Kód je možné vygenerovať a prispôsobiť na stránke <a href="http://maps.google.sk/">maps.google.com</a>.
+			Vygenerovaný kód môže byť použitý pre presnejšiu lokalizáciu danej pobočky.
+	</p>
+</div>

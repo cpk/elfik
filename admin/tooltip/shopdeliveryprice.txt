@@ -1,0 +1,7 @@
+﻿<div class="tooltip right">
+	<strong>Cena doručenia tovaru</strong>
+	<p>
+		Cena doručenia bez DPH. V prípade ak sa danej položke nastaví 0% DPH, nebude sa na ňu
+		uplatnovať systémová DPH. Príklad nulovej DPH je napríklad doručovanie prostredníctvom Slovenskej pošty.
+	</p>
+</div>
